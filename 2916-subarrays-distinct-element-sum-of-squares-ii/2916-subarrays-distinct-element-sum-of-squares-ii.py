@@ -45,12 +45,20 @@ class Solution:
 
             if ql <= mid:
                 update(
-                    node * 2, left, mid, ql, qr
+                    node * 2,
+                    left,
+                    mid,
+                    ql,
+                    qr
                 )
 
             if qr > mid:
                 update(
-                    node * 2 + 1, mid + 1, right, ql, qr
+                    node * 2 + 1,
+                    mid + 1,
+                    right,
+                    ql,
+                    qr
                 )
 
             total[node] = (
@@ -66,7 +74,14 @@ class Solution:
 
         for i, value in enumerate(nums):
             previous = last_seen.get(value, -1)
-            update(1, 0, n - 1, previous + 1, i)
+
+            update(
+                1,
+                0,
+                n - 1,
+                previous + 1,
+                i
+            )
 
             last_seen[value] = i
 
