@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bit Manipulation
@@ -16,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3665-twisted-mirror-path-count](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3665-twisted-mirror-path-count](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## String
 | Problem Name | Difficulty |
