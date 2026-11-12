@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
