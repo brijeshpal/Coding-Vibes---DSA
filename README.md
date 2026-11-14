@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/main/3665-twisted-mirror-path-count/) | Medium |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 <!---LeetCode Topics End-->
