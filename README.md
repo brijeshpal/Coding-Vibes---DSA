@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
