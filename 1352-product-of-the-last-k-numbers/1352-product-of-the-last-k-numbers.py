@@ -6,7 +6,6 @@ class ProductOfNumbers:
 
     def add(self, num: int) -> None:
 
-        # Reset prefix when zero arrives
         if num == 0:
             self.prefix = [1]
 
@@ -15,7 +14,6 @@ class ProductOfNumbers:
 
     def getProduct(self, k: int) -> int:
 
-        # Zero is present in the last k numbers
         if k >= len(self.prefix):
             return 0
 
