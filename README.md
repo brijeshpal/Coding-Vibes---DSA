@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3360-stone-removal-game](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/brijeshpal/Coding-Vibes---DSA/tree/main/3360-stone-removal-game/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
